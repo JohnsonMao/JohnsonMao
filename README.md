@@ -9,11 +9,11 @@
 <h2 align="center">⭐️ My Github Stats:</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&hide=issues" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&hide=issues&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=johnsonmao" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=johnsonmao&theme=transparent" alt="Profile views" />
 </p>
 
 <!--
