@@ -3,17 +3,17 @@
 <h2 align="center">⭐️ My Github Streak Stats:<h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonmao" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonmao&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&hide=issues&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&hide=issues&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=johnsonmao&theme=transparent" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=johnsonmao" alt="Profile views" />
 </p>
 
 <!--
