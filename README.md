@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Johnson Mao</h1>
+# Hi 👋, I'm Johnson Mao
 
-<h2 align="center">⭐️ My Github Streak Stats:<h2>
+## ⭐️ My Github Streak Stats:
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonmao&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonmao&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 
-<h2 align="center">⭐️ My Github Stats:</h2>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&hide=issues&theme=transparent" alt="GitHub Stats" />
-</p>
+## ⭐️ My Github Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&hide=issues&theme=transparent" alt="GitHub Stats" />
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=johnsonmao" alt="Profile views" />
