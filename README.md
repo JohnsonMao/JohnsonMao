@@ -2,10 +2,15 @@
 
 <h2 align="center"><samp>⭐️ Github Stats</samp></h2>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonmao&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
+<div align="center">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonmao&theme=transparent&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+</div>
+<div align="center">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=johnsonmao&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</div>
+<div align="center">
+    <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnsonmao&theme=transparent&utcOffset=8" alt="Productive Time" />
+</div>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=johnsonmao" alt="Profile views" />
