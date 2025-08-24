@@ -1,5 +1,7 @@
 <h1 align="center"><samp>Hi 👋, I'm Johnson Mao</samp></h1>
 
+<p>Front-end developer with 3+ years of experience delivering scalable, maintainable solutions based on user and team needs. Skilled in SaaS platforms, payment SDKs, and cross-functional collaboration. Passionate about tech communities, open-source, and team knowledge sharing.</p>
+
 <h2 align="center"><samp>⭐️ Github Stats</samp></h2>
 
 <div align="center">
